@@ -1,0 +1,26 @@
+
+body{
+  background-image: url(as.jpg);
+}
+nav{
+  background-color: grey;
+  border:10px;
+  color: white;
+  border-width: 10px;
+  border-style: solid;
+  border-color: red grey;
+  text-align:left;
+  padding: 5px;
+  font-style: italic;
+margin: 15px;
+}
+a{
+  display: inline-block;
+  text-decoration: none;
+  margin: 0 3px;
+  color: white;
+}
+.s{
+  color: blue;
+  text-align: 40px;
+}
